@@ -1,0 +1,5 @@
+san=input('3 xanali san kirit:')
+a=int(san[0:1])
+b=int(san[1:2])
+c=int(san[2:])
+print(a+b+c)
